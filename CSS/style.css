@@ -1,0 +1,33 @@
+/* Estilos adicionales personalizados */
+body {
+    padding-top: 20px;
+  }
+  
+  .img-fluid {
+    max-width: 100%;
+    height: auto;
+  }
+  /* Estilos adicionales personalizados */
+body {
+  padding-top: 20px;
+}
+
+/* Estilos para el botón "Conoce más" del header */
+.jumbotron .btn {
+  font-size: 1.2rem;
+}
+
+/* Estilos para la sección "Sobre Nosotros" */
+#about {
+  background-color: #f8f9fa;
+}
+
+/* Estilos para los iconos de servicios */
+.card i {
+  color: #007bff;
+}
+
+/* Estilos para el formulario de contacto */
+#contact form {
+  background-color: #f8f9fa;
+}
